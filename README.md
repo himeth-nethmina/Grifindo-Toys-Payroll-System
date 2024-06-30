@@ -1,1 +1,2 @@
-# Grifindo_Toys_Payroll_System
+# Grifindo Toys Payroll System
+The Grifindo Toys Payroll System is a robust and user friendly application developed using C# and SQL Server to manage employee payroll efficiently of the Grifindo Toys Company. This system includes features such as user authentication, role based access control, employee record management, salary calculations, and leave management. The application ensures secure data handling and provides an intuitive interface for users, enhancing operational efficiency within the organization.
